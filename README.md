@@ -23,9 +23,6 @@ The goal was to automate the extraction of:
 ----
 ![Infographic – Project Workflow](screenshots/project_workflow_infographic.png)
 
-# 📊 Payout & Invoice Data Consolidation with Python
-
-> A real-world data automation project transforming disparate, often unstructured Excel and PDF financial documents into a streamlined, fully automated solution using Python.
 ---
 
 ## 🧰 Tools & Skills Used
